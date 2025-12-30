@@ -13,8 +13,8 @@ import streamlit as st
 from PIL import Image
 
 # Plotly (visual dashboard)
-#import plotly.express as px
-#import plotly.graph_objects as go
+import plotly.express as px
+import plotly.graph_objects as go
 
 import gdown  
 import os
